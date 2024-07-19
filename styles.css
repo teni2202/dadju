@@ -1,7 +1,9 @@
-body{background-color: black;}
+body{background-color: black;
+}
 
 h1{
 	color:red;
+	font-size: 35px;
 }
 
 p{
@@ -16,4 +18,17 @@ img{
 iframe{
 	border: 5px solid white;
 }
+h2{
+	color:red;
+	font-size: 25px;
+}
 
+li{
+	color: lightblue;
+	font-size: 20px;
+}
+
+h3{
+	color: white;
+	font-size: 25px;
+}
